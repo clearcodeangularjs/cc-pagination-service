@@ -2,7 +2,7 @@
   "name": "pagination-service",
   "description": "Service for paginating content.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "pagination.js",
