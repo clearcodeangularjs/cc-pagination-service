@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.pagination.service')
+angular.module('cc.pagination.service', [])
     .factory('Pagination', ['$location', function($location){
         var Pagination = function(current_page, num_results, num_pages, max_items){
             this.current_page = current_page;
