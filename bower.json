@@ -1,11 +1,11 @@
 {
-	"name": "pagination-service",
+	"name": "cc-pagination-service",
 	"description": "Service for paginating content.",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"version": "1.0.0",
-	"main": "pagination.js",
+	"main": "scripts/services/pagination.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
