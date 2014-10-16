@@ -5,7 +5,7 @@ This service prepares pagination bar for pagination purposes. Adds search additi
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-pagination-service --save ```
 
 
 Usage
